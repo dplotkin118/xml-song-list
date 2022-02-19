@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<Songs>
+    <Heading> Wedding Band Song List </Heading>
+    <Song>
+        <Name> Living on a Prayer </Name>
+        <Artist> Bon Jovi </Artist>
+        <Genres>
+            <Genre1> Rock </Genre1>
+        </Genres> 
+        <Year> 1986 </Year>
+    </Song> 
+    <Song>
+        <Name> Go Your Own Way </Name>
+        <Artist> Fleetwood Mac </Artist>
+        <Genres>
+            <Genre1> Rock </Genre1>
+            <Genre2> Folk </Genre2>
+        </Genres>
+        <Year> 1977 </Year>
+    </Song> 
+    <Song>
+        <Name> I Will Wait </Name>
+        <Artist> Mumford and Sons </Artist>
+        <Genres>
+            <Genre1> Folk Rock </Genre1>
+        </Genres>
+        <Year> 2012 </Year>
+    </Song> 
+    <Song>
+        <Name> Last Nite </Name>
+        <Artist> The Strokes </Artist>
+        <Genres>
+            <Genre1> Alternative </Genre1>
+            <Genre2> Indie </Genre2>
+        </Genres>
+        <Year> 2001 </Year>
+    </Song>
+    <Song>
+        <Name> Chasing Cars </Name>
+        <Artist> Snow Patrol </Artist>
+        <Genres>
+            <Genre1> Alternative </Genre1>
+            <Genre2> Alt Rock </Genre2>
+        </Genres>
+        <Year> 2006 </Year>
+    </Song>
+    <Song>
+        <Name> Champagne Supernova </Name>
+        <Artist> Oasis </Artist>
+        <Genres>
+            <Genre1> Rock </Genre1>
+        </Genres>
+        <Year> 1996 </Year>
+    </Song>
+    <Song>
+        <Name> Mr. Brightside </Name>
+        <Artist> The Killers </Artist>
+        <Genres>
+            <Genre1> Alternative Rock </Genre1>
+            <Genre2> Pop Rock </Genre2>
+        </Genres>
+        <Year> 2003 </Year>
+    </Song>
+    <Song>
+        <Name> Finesse </Name>
+        <Artist> Bruno Mars </Artist>
+        <Genres>
+            <Genre1> Pop </Genre1>
+            <Genre2> Funk </Genre2>
+        </Genres>
+        <Year> 2016 </Year>
+    </Song>
+    <Song>
+        <Name> Thinking Out Loud </Name>
+        <Artist> Ed Sheeran </Artist>
+        <Genres>
+            <Genre1> Pop </Genre1>
+            <Genre2> Blue Eyed Soul </Genre2>
+        </Genres>
+        <Year> 2014 </Year>
+    </Song>
+    <Song>
+        <Name> Shut Up and Dance </Name>
+        <Artist> WALK THE MOON </Artist>
+        <Genres>
+            <Genre1> Pop </Genre1>
+        </Genres>
+        <Year> 2014 </Year>
+    </Song>
+</Songs>

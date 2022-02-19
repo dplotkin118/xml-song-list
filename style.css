@@ -1,0 +1,20 @@
+Songs {
+    color: black;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+Heading{
+    font-size: 30px;
+    color: purple;
+}
+Heading, Artist, Name, Genres, Genre1, Genre2, Genre3, Year{
+    display: block;
+}
+Name{
+    font-size: 20px;
+}
+Song {
+    padding-left: 20px;
+}
